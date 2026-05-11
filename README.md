@@ -11,13 +11,13 @@ This project implements the **explicit** and **implicit Euler methods** to solve
 
 Clone the repository:
 ```sh
-$ git clone https://github.com/6Dren/Euler-Methods-in-Cooling-Models.git
+git clone https://github.com/6Dren/Euler-Methods-in-Cooling-Models.git
 ```
 Navigate to the Coffee directory:
 ```sh
-$ cd Euler-Methods-in-Cooling-Models
+cd Euler-Methods-in-Cooling-Models
 ```
 Run the program:
 ```sh
-$ python main.py
+python main.py
 ```
