@@ -21,3 +21,6 @@ Run the program:
 ```sh
 python main.py
 ```
+
+### Details 
+- All generated figures are saved in the `plots/` folder
